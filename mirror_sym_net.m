@@ -5,6 +5,7 @@ function net = mirror_sym_net(nA,nB,nBp,p)
 %  Liyue Zhang, Adilson E. Motter, and Takashi Nishikawa
 %  Incoherence-Mediated Remote Synchronization
 %  Phys. Rev. Lett. 118, 174102 (2017)
+%  DOI: 10.1103/PhysRevLett.118.174102
 %
 % Output: struct variable 'net' with fields, 'nA', 'nB', 'nBp', 'p', 'A'
 %
