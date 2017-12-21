@@ -18,8 +18,8 @@ If no input argument is given, it will use:
 
 The indexing for the adjacency matrix 'net.A' is as follows:
 
-  Group A: i = 1, ... ,nA
-  Group B: i = nA+1, ..., nA+nB
+  Group A: i = 1, ... ,nA  
+  Group B: i = nA+1, ..., nA+nB  
   Group C: i = nA+nB+1, ..., N (= 2*nA + nB)
 
 Copyright (c) 2017 by Takashi Nishikawa
