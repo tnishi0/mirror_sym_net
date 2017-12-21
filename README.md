@@ -4,8 +4,9 @@ Generates a random mirror-symmetric network following the procedure
 described in the following paper:
 
  Liyue Zhang, Adilson E. Motter, and Takashi Nishikawa  
- Incoherence-Mediated Remote Synchronization  
- Phys. Rev. Lett. 118, 174102 (2017)  
+ *Incoherence-Mediated Remote Synchronization*  
+ Phys. Rev. Lett. **118**, 174102 (2017)  
+ [DOI: 10.1103/PhysRevLett.118.174102](https://doi.org/10.1103/PhysRevLett.118.174102)
 
 Usage: net = mirror_sym_net(nA,nB,nBp,p)
 
